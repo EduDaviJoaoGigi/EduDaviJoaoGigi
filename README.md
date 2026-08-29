@@ -30,24 +30,23 @@ Somos um grupo unido e temos 2 duplas dentro deste grupo.<br>
 
 <td align="center">
 
-<img src="https://github.com/Joehler2011" width="85">
+<img src="https://github.com/Koehler2011.png" width="85">
 
 <br>
 
-<a href="https://github.com/GiovanniRovesta">
-Dupla
+<a href="https://github.com/Koehler2011">
 </a>
 
 </td>
 
 <td align="center">
 
-<img src="https://github.com/EduDaviJoaoGigi.png" width="85">
+<img src="https://github.com/GiovanniRovesta.png" width="85">
 
 <br>
 
-<a href="https://github.com/EduDaviJoaoGigi">
-Quarteto
+<a href="https://github.com/GiovanniRovesta">
+
 </a>
 
 </td>
