@@ -35,7 +35,7 @@ Somos um grupo unido e temos 2 duplas dentro deste grupo.<br>
 <br>
 
 <a href="https://github.com/Koehler2011">
-Edaurdo
+Eduardo
 </a>
 
 </td>
@@ -51,6 +51,16 @@ Giovanni
 </a>
 
 </td>
+
+<td align="center">
+
+<img src="https://github.com/davidessousamelo-rgb.png" width="85">
+
+<br>
+
+<a href="https://github.com/davidessousamelo-rgb">
+Davi
+</a>
 
 </tr>
 </table>
