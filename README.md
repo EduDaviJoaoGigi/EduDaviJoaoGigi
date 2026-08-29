@@ -62,6 +62,18 @@ Giovanni
 Davi
 </a>
 
+<td align="center">
+
+<img src="https://github.com/monteiro-christo-tech.png" width="85">
+
+<br>
+
+<a href="https://github.com/monteiro-christo-tech">
+João
+</a>
+
+</td>
+
 </tr>
 </table>
 
