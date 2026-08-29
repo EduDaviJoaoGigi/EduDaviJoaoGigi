@@ -35,6 +35,7 @@ Somos um grupo unido e temos 2 duplas dentro deste grupo.<br>
 <br>
 
 <a href="https://github.com/Koehler2011">
+Edaurdo
 </a>
 
 </td>
@@ -46,7 +47,7 @@ Somos um grupo unido e temos 2 duplas dentro deste grupo.<br>
 <br>
 
 <a href="https://github.com/GiovanniRovesta">
-
+Giovanni
 </a>
 
 </td>
